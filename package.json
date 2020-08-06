@@ -1,0 +1,22 @@
+{
+  "name": "sqlize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbreznay/sqlize.git"
+  },
+  "author": "Dylan Breznay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbreznay/sqlize/issues"
+  },
+  "homepage": "https://github.com/dbreznay/sqlize#readme",
+  "dependencies": {
+    "sequelize": "^6.3.4"
+  }
+}
